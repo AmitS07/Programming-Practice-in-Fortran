@@ -1,5 +1,5 @@
 ! This is excercises for Computer programming in Fortran-90/95 by V Rajaraman, ISBN;9788120311817, PHI Leaning, Year-1999
-! Chapter-2: Use of Modules
+! Chapter-2: Simple Fortran 90 Program
 ! Date: 29th March 2024
 ! Author: Amit(amitdravid@outlook.com), The University of Alabama, AL, USA
 ! Note: To run and compile an example program-code, comment other program-codes
